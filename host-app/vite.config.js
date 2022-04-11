@@ -30,7 +30,7 @@ export default defineConfig({
     })
   ],
   build: {
-    target: "es2015",
+    target: "esnext",
   },
   preview: {
     port: 4502
